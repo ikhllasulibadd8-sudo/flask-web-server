@@ -7,4 +7,4 @@ export APP_AUTHOR="Ikhlasul Ibad_2505110015"
 export APP_ENV="development"
 python server.py
 Akses melalui browser: http://localhost:5000
-Dibuat oleh: Ikhlasul Ibad_2505110015
+Dibuat oleh: Ikhlasul Ibad_2505110015.
